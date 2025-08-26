@@ -1,5 +1,5 @@
-# 👋 Salut, moi c'est [Tarig] plus connu sous l'allias TMK-DEV  
-Concepteur Développeur d’Applications full-stack JavaScript | Passionné par le web et les projets collaboratifs
+# 👋 Salut, moi c'est Tarig plus connu sous l'allias TMK-DEV !
+Concepteur Développeur d’Applications full-stack JavaScript | Je me force avec determination et passion aux technologies web
 
 ## 🚀 Stack & Outils  
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow) 
@@ -9,7 +9,7 @@ Concepteur Développeur d’Applications full-stack JavaScript | Passionné par 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tmekz&show_icons=true&theme=tokyonight)
 
 ## 📫 Me contacter  
 - [LinkedIn](https://linkedin.com/in/tmk-dev/)  
