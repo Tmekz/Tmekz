@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Welcome on my GitHub profil" />
+  <img src="assets/banner.jpg" alt="Welcome on my GitHub profil" />
 </p>
 
 # 👋 Salut, moi c'est TMK-DEV !
@@ -10,7 +10,7 @@ Concepteur Développeur d’Applications full-stack JavaScript | Je me forme ave
 
 ### 🔹 Langages & Frameworks
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -40,7 +40,7 @@ Concepteur Développeur d’Applications full-stack JavaScript | Je me forme ave
 
 ### 🔹 Conception
 
-![UML](https://img.shields.io/badge/UML-FA7343?logoColor=white)  ![Merise](https://img.shields.io/badge/Merise-6A5ACD?logoColor=white)  ![Wireframes](https://img.shields.io/badge/Wireframes-008080?logoColor=white)  ![Prototypage](https://img.shields.io/badge/Prototypage-FFD700?logoColor=black)
+![UML](https://img.shields.io/badge/UML-FA7343?logoColor=white) ![Merise](https://img.shields.io/badge/Merise-6A5ACD?logoColor=white) ![Wireframes](https://img.shields.io/badge/Wireframes-008080?logoColor=white) ![Prototypage](https://img.shields.io/badge/Prototypage-FFD700?logoColor=black)
 
 ## 📫 Me contacter
 
