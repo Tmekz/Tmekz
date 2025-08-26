@@ -40,10 +40,7 @@ Concepteur Développeur d’Applications full-stack JavaScript | Je me forme ave
 
 ### 🔹 Conception
 
-![UML](https://img.shields.io/badge/UML-FA7343?logoColor=white)  
-![Merise](https://img.shields.io/badge/Merise-6A5ACD?logoColor=white)  
-![Wireframes](https://img.shields.io/badge/Wireframes-008080?logoColor=white)  
-![Prototypage](https://img.shields.io/badge/Prototypage-FFD700?logoColor=black)
+![UML](https://img.shields.io/badge/UML-FA7343?logoColor=white)  ![Merise](https://img.shields.io/badge/Merise-6A5ACD?logoColor=white)  ![Wireframes](https://img.shields.io/badge/Wireframes-008080?logoColor=white)  ![Prototypage](https://img.shields.io/badge/Prototypage-FFD700?logoColor=black)
 
 ## 📫 Me contacter
 
