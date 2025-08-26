@@ -1,5 +1,5 @@
 # 👋 Salut, moi c'est Tarig plus connu sous l'allias TMK-DEV !
-Concepteur Développeur d’Applications full-stack JavaScript | Je me fome avec determination et passion aux technologies web
+Concepteur Développeur d’Applications full-stack JavaScript | Je me fome avec détermination et passion aux technologies web
 
 ## 🚀 Stack & Outils  
 
