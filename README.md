@@ -3,21 +3,26 @@
 </p>
 
 # 👋 Salut, moi c'est TMK-DEV !
-
-Concepteur Développeur d’Applications full-stack JavaScript | Je me forme avec détermination et passion aux technologies web
+Concepteur Développeur d'Applications full-stack JavaScript | Je me forme avec détermination et passion aux technologies web
 
 ## 🚀 Stack & Outils
 
 ### 🔹 Langages & Frameworks
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+
+### 🔹 State Management
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?logo=react&logoColor=white)
 
 ### 🔹 Intégration & Design
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)
@@ -25,7 +30,6 @@ Concepteur Développeur d’Applications full-stack JavaScript | Je me forme ave
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ### 🔹 Bases de données
-
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -33,16 +37,18 @@ Concepteur Développeur d’Applications full-stack JavaScript | Je me forme ave
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 
 ### 🔹 Outils & DevOps
-
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)
 
 ### 🔹 Conception
-
-![UML](https://img.shields.io/badge/UML-FA7343?logoColor=white) ![Merise](https://img.shields.io/badge/Merise-6A5ACD?logoColor=white) ![Wireframes](https://img.shields.io/badge/Wireframes-008080?logoColor=white) ![Prototypage](https://img.shields.io/badge/Prototypage-FFD700?logoColor=black)
+![UML](https://img.shields.io/badge/UML-FA7343?logoColor=white)
+![Merise](https://img.shields.io/badge/Merise-6A5ACD?logoColor=white)
+![Wireframes](https://img.shields.io/badge/Wireframes-008080?logoColor=white)
+![Prototypage](https://img.shields.io/badge/Prototypage-FFD700?logoColor=black)
 
 ## 📫 Me contacter
-
 - [LinkedIn](https://linkedin.com/in/tmk-dev/)
 - [Email](mailto:tmk-dev@hotmail.com)
