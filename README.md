@@ -3,7 +3,7 @@
 </p>
 
 # 👋 Salut, moi c'est TMK-DEV !
-Concepteur Développeur d'Applications full-stack JavaScript | Je me forme avec détermination et passion aux technologies web
+Concepteur Développeur d'Applications full-stack JavaScript - Java | Je me forme avec détermination et passion aux technologies web
 
 ## 🚀 Stack & Outils
 
