@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Welcome to my GitHub profile" />
+  <img src="assets/banner.png" alt="Welcome to my GitHub profile" />
 </p>
 
 # 👋 Salut, moi c'est TMK-DEV !
